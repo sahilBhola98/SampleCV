@@ -1,0 +1,210 @@
+#socialicons ul{
+list-style: none;
+display: inline-flex;
+}
+#menu UL{
+list-style: none;
+display: inline-flex;
+font-family: monospace;
+}
+#menu Ul li{
+font-size: 22px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#menu{
+border-bottom: 3px solid gray;
+text-align: center;
+}
+#socialicons ul li{
+
+font-size: 55px;
+    
+    padding: 116px;
+}
+.whitetext{
+	color: white;
+    padding: 41px 54px 89px 71px;
+}
+h1{
+	font-size: 100px;
+    text-align: center;
+    font-family: fantasy;
+}
+.headerarea p{
+	font-size: 25px;
+    text-align: center;
+    font-family: cursive;
+}
+strong{
+	color: sandybrown;
+}
+#menu UL li a{
+	text-decoration: none;
+}
+.headerarea a:link{
+	color: white;
+}
+.headerarea a:visited{
+	color: white;
+}
+.headerarea{
+	height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(resumeimages-master/header-background.jpg);
+}
+i{
+	color:white;
+}
+  
+body{
+	
+    margin: 0px;
+}
+#Aboutme{
+   height:  100vh;
+   background-color: #332a2a;
+}
+section .lhs{
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    vertical-align: bottom;
+    margin-top: 100px;
+    padding-left: 22px;
+
+}
+section .rhs{
+    display: inline-block;
+    width: 60%;
+    height: 100%;
+    color: white;
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 90px;
+}
+#Aboutme h2{
+    font-size: 48px;
+    font-family: fantasy;
+    text-decoration: underline;
+    color: lightsteelblue;
+}
+#Aboutme p{
+font-size: 25px;
+    text-align: justify;
+}
+#Aboutme img{
+    height: 27%;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+#Aboutme ul{
+list-style: none;
+font-size: 25px;
+    text-align: justify;
+font-family: monospace;
+}
+#Whitebox h2{
+    font-size: 48px;
+    font-family: fantasy;
+    text-decoration: underline;
+     color: black;
+    text-decoration-color: brown;
+    text-decoration-style: double;
+}
+#Whitebox p{
+    font-size: 25px;
+    text-align: justify;
+     color: black;
+}
+#marginline{
+background-color: #00000096;
+    height: 5px;
+    width: 1380px;
+    margin-left: 22px;
+    filter: brightness;
+    border: 1px solid #;
+    border: 2px solid #00000096;
+    border-radius: 22%;
+    margin-top: 100px;
+} 
+
+.skills{
+    background-color: #b3aeae;
+    width: 100%;
+    height: 4%;
+}
+#Whitebox h3{
+    font-family: sans-serif;
+    text-decoration: underline;
+    color: black;
+    text-decoration-color: brown;
+    text-decoration-style: wavy;
+    text-align: left;
+    margin-bottom: 7px;
+    font-size: 24px;
+}  
+#Whitebox{
+    height:  100vh;
+}
+#htmlskills{
+    background-color: black;
+    height: 100%;
+    width: 80%
+}
+#cssskills{
+    background-color: black;
+    height: 100%;
+    width: 55%
+}
+#jsskills{
+    background-color: black;
+    height: 100%;
+    width: 63%
+}
+#jqueryskills{
+    background-color: black;
+    height: 100%;
+    width: 74%
+}
+#Cskills{
+    background-color: black;
+    height: 100%;
+    width: 79%
+}
+#javaskills{
+    background-color: black;
+    height: 100%;
+    width: 89%
+}
+#portfolio{
+    height: 100vh;
+    background-image: url(resumeimages-master/testimonials-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    background-position: center;
+    padding-top: 100px;
+}
+#portfolio div{
+    background-color: aliceblue;
+    height: 80%;
+    width: 80%;
+    display: inline-block;
+}
+#portfolio div p{
+    color: gray;
+    font-size: 18;
+    font-family: cursive;
+    text-align: center;
+}
+#portfolio div img{
+    display: inline-block;
+    width: 30%;
+    height: 25%;
+}
